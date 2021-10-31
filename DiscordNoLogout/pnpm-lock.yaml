@@ -1,0 +1,13 @@
+lockfileVersion: 5.3
+
+specifiers:
+  gsetw: ^1.0.3
+
+dependencies:
+  gsetw: 1.0.3
+
+packages:
+
+  /gsetw/1.0.3:
+    resolution: {integrity: sha512-D2k+PYVMNEcXW9JPR/ROMK1nF8N4+Ise0E+78Bxeqj3X/k1jmjPCAhVH0IiWeMGAAvojPLu5ttQe+z/n/SswdQ==}
+    dev: false

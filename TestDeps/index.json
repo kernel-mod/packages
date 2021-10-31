@@ -1,0 +1,5 @@
+{
+	"name": "Test Deps",
+	"id": "TestDeps",
+	"dependencies": ["FrameworkDevtools"]
+}

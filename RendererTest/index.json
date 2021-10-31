@@ -1,0 +1,5 @@
+{
+	"name": "Renderer Test",
+	"id": "RendererTest",
+	"dependencies": ["MissingDep"]
+}

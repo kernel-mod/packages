@@ -1,0 +1,5 @@
+{
+	"name": "No Discord Logout",
+	"id": "NoDiscordLogout",
+	"dependencies": ["TestDeps"]
+}
