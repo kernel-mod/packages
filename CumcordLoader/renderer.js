@@ -5,7 +5,7 @@ export default {
 	inject() {
 		setTimeout(() => {
 			if (
-				typeof window.webpackChunkdiscord_app?.length != null &&
+				window.webpackChunkdiscord_app?.length != null &&
 				window.webpackChunkdiscord_app.length >= 20
 			) {
 				fetch(
