@@ -6,7 +6,7 @@ export default {
 		setTimeout(() => {
 			if (
 				window.webpackChunkdiscord_app?.length != null &&
-				window.webpackChunkdiscord_app.length >= 20
+				window.webpackChunkdiscord_app.length >= 40
 			) {
 				fetch(
 					"https://raw.githubusercontent.com/Cumcord/Cumcord/stable/dist/build.js"
