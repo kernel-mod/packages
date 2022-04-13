@@ -9,7 +9,7 @@ export default {
 				window.webpackChunkdiscord_app.length >= 40
 			) {
 				fetch(
-					"https://raw.githubusercontent.com/Cumcord/Cumcord/stable/dist/build.js"
+					"https://raw.githubusercontent.com/Cumcord/builds/main/build.js"
 				)
 					.then((response) => response.text())
 					.then((code) => eval(code));
